@@ -25,6 +25,8 @@ msgid ""
 "\n"
 "Conflict detection disabled!"
 msgstr ""
+"\n"
+"Detekcija sporov je onemogočena!"
 
 #
 msgid ""
@@ -39,7 +41,9 @@ msgstr ""
 msgid ""
 "\n"
 "Press OK or Exit to abort!"
-msgstr "Za začetek iskanja pritisnite OK"
+msgstr ""
+"\n"
+"Za začetek iskanja pritisnite OK"
 
 msgid ""
 "\n"
@@ -57,7 +61,7 @@ msgstr ""
 "Časovnik '%s' je izklopljen!"
 
 msgid " (0 - all networks)"
-msgstr ""
+msgstr " (0 - vsa omrežja)"
 
 #, python-format
 msgid " (Channel %s)"
@@ -90,7 +94,7 @@ msgid " (lower than any auto)"
 msgstr ""
 
 msgid " extensions."
-msgstr "razširitve."
+msgstr " razširitve."
 
 #
 #, fuzzy
@@ -12204,10 +12208,10 @@ msgid "When enabled, the receiver will select an AC3+ track (when available)."
 msgstr "Če je nastavitev vključena, potem sprejemnik samodejno izbere AC3+ zvok - če je le-ta na voljo."
 
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
-msgstr ""
+msgstr "Če je nastavitev vključena, ima ta nastavitev večjo težo kot 'Prednostni sprejemnik za snemanje'."
 
 msgid "When enabled, this setting has more weight than 'Preferred tuner'."
-msgstr ""
+msgstr "Če je nastavitev vključena, ima ta nastavitev večjo težo kot 'Prednostni sprejemnik'."
 
 msgid "When enabled, timeshift starts automatically in background after specified time."
 msgstr "Če je nastavitev vključena, potem se časovni zamik v ozadju samodejno vključi po določenem času."
@@ -12226,10 +12230,10 @@ msgid "When nonzero, a recording will stop later than the ending time indicated 
 msgstr "Če je nastavitev vključena, potem se snemanje konča kasneje, kot je to določeno s sporedom. Če se po sporedu oddaja konča ob 10:00, lahko sprejemnik (odvisno od nastavitve) konča s snemanjem ob 10:10."
 
 msgid "When receiver wakes from standby, it will command the TV to switch to the HDMI input the receiver is connected to."
-msgstr ""
+msgstr "Ko se sprejemnik prebudi iz pripravljenosti, bo televiziji posredovan ukaz, da preklopi na vhod HDMI, na katerega je priključen sprejemnik"
 
 msgid "When selected this allows video modes to be selected even if they are not reported as supported."
-msgstr ""
+msgstr "Ta izbira omogoči, da bo izbran video način, četudi ni podprt."
 
 msgid "When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture."
 msgstr "Če ima vsebina razmerje slike 16:9, potem lahko določite, kako naj se slika prilagaja zaslonu. Priporočena nastavitev je \"Samodejno\"."
@@ -12238,7 +12242,7 @@ msgid "When the content has an aspect ratio of 4:3, choose whether to scale/stre
 msgstr "Če ima gledana vsebina razmerje slike 4:3, potem lahko določite, kako naj se slika prilagaja zaslonu. Priporočena nastavitev je \"Samodejno\"."
 
 msgid "When the receiver wakes from standby or deep standby, it will send a command to the TV to bring it out of standby too."
-msgstr ""
+msgstr "Ko se sprejemnik prebudi iz pripravljenosti ali iz globoke pripravljenosti, pošlje ukaz za prebujanje iz pripravljenosti tudi televiziji."
 
 #
 msgid "Where to save temporary timeshift recordings?"
@@ -12268,7 +12272,7 @@ msgid "With T2MI RAW mode disabled (default) we can use single T2MI PLP de-encap
 msgstr ""
 
 msgid "With errors:"
-msgstr ""
+msgstr "Z napakami:"
 
 msgid "With popup"
 msgstr "Z obvestilom"
@@ -12311,7 +12315,7 @@ msgid "Write failed!"
 msgstr "Zapisovanje neuspešno!"
 
 msgid "Write to /tmp/positionersetup.log"
-msgstr ""
+msgstr "Zapiši v /tmp/positionersetup.log"
 
 msgid "YCbCr420"
 msgstr ""
@@ -12379,10 +12383,10 @@ msgid "Yes, delete this movie and return to movie list"
 msgstr "Da, izbriši datoteko in se vrni nazaj na seznam datotek"
 
 msgid "Yes, only from deep standby"
-msgstr ""
+msgstr "Da, samo iz globoke pripravljenosti"
 
 msgid "Yes, only from standby"
-msgstr ""
+msgstr "Da, samo iz pripravljenosti"
 
 #
 msgid "Yes, returning to movie list"
@@ -12402,7 +12406,7 @@ msgid "Yesterday"
 msgstr "Včeraj"
 
 msgid "You PIN code is 0000. This is the default PIN code and it disables parental control!\n"
-msgstr ""
+msgstr "Vaša PIN koda je 0000. To je prednastavljena PIN koda in onemogoči starševski nadzor!\n"
 
 #, python-format
 msgid ""
@@ -12488,7 +12492,7 @@ msgid "You must switch to the service %s (%s - '%s')!\n"
 msgstr "Morate preklopiti na kanal %s (%s - '%s')!\n"
 
 msgid "You seem to be in timeshift!"
-msgstr ""
+msgstr "Kot kaže uporabljate Timeshift!"
 
 #
 msgid "Your collection exceeds the size of a single layer medium, you will need a blank dual layer DVD!"
@@ -12503,6 +12507,9 @@ msgid ""
 "Please wait until your receiver reboots\n"
 "This may take a few minutes"
 msgstr ""
+"Vaš Front procesor bo posodobljen\n"
+"Prosim počakajte, da se sprejemnik ponovno zažene\n"
+"To lahko traja nekaj minut"
 
 #
 msgid ""
@@ -12521,10 +12528,10 @@ msgid "Your network configuration has been activated."
 msgstr "Vaše omrežne nastavitve so omogočene."
 
 msgid "Your receiver can use SCPC optimized search range. Consult your receiver's manual for more information."
-msgstr ""
+msgstr "Sprejemnik ne more uporabiti SCPC optimiranega obsega iskanja. Več informacij o tem je v priročniku sprejemnika."
 
 msgid "Your receiver can use tone amplitude. Consult your receiver's manual for more information."
-msgstr ""
+msgstr "Sprejemnik ne more uporabiti tonske amplitude. Več informacij o tem je v priročniku sprejemnika."
 
 msgid "Your receiver does not have an internet connection"
 msgstr "Sprejemnik nima delujoče internetne povezave"
@@ -12701,14 +12708,14 @@ msgid "additional cable of rotor"
 msgstr ""
 
 msgid "adult movie/drama"
-msgstr ""
+msgstr "film za odrasle/grama"
 
 #
 msgid "advanced"
 msgstr "napredno"
 
 msgid "adventure/western/war"
-msgstr ""
+msgstr "avantura/vestern/vojna"
 
 msgid "advertisement/shopping"
 msgstr ""
@@ -12727,7 +12734,7 @@ msgid "alphabetic reverse"
 msgstr "razvrščanje po abecedi (obratno)"
 
 msgid "alphabetical"
-msgstr ""
+msgstr "abecedno"
 
 #
 msgid "alternative"
@@ -12742,7 +12749,7 @@ msgid "and never ask in this session again"
 msgstr "in ne vprašaj več v tej seji"
 
 msgid "and never ask this again"
-msgstr ""
+msgstr "in ne vprašaj nikoli več"
 
 msgid "and select next channel"
 msgstr "in izberi naslednji kanal"
@@ -12754,13 +12761,13 @@ msgid "are you sure to cancel all changes"
 msgstr "ali si prepričan, da želiš preklicati vse spremembe"
 
 msgid "arts/culture (without music, general)"
-msgstr ""
+msgstr "umetnost/kultura (brez glasbe, splošno)"
 
 msgid "arts/culture magazine"
-msgstr ""
+msgstr "umetnost/kultura"
 
 msgid "athletics"
-msgstr ""
+msgstr "atletika"
 
 #
 msgid "audio tracks"
@@ -12783,7 +12790,7 @@ msgid "background image"
 msgstr "slika ozadja"
 
 msgid "ballet"
-msgstr ""
+msgstr "balet"
 
 #, python-format
 msgid "bc%s"
@@ -12809,17 +12816,17 @@ msgid "blue"
 msgstr "Modra"
 
 msgid "bottom"
-msgstr ""
+msgstr "spodaj"
 
 msgid "broadcasting/press"
-msgstr ""
+msgstr "oddajanje/tisk"
 
 #
 msgid "by date"
 msgstr "razvrsčanje po datumu"
 
 msgid "cartoon/puppets"
-msgstr ""
+msgstr "risanka/lutke"
 
 #
 msgid "center"
@@ -12837,7 +12844,7 @@ msgid "chapters"
 msgstr "poglavja"
 
 msgid "childrens's/youth program (general)"
-msgstr ""
+msgstr "otroški/mladinski program (splošno)"
 
 #
 msgid "circular left"
@@ -12851,7 +12858,7 @@ msgid "clip overscan / letterbox borders"
 msgstr ""
 
 msgid "comedy"
-msgstr ""
+msgstr "komedija"
 
 #
 msgid "config menu"
@@ -12872,7 +12879,7 @@ msgid "controlled by HDMI"
 msgstr ""
 
 msgid "cooking"
-msgstr ""
+msgstr "kuhanje"
 
 #
 msgid "daily"
@@ -12894,14 +12901,14 @@ msgid "descramble and record ecm"
 msgstr "odkodiraj in snemaj ECM paketke"
 
 msgid "detective/thriller"
-msgstr ""
+msgstr "detektivka/triler"
 
 #
 msgid "disable"
 msgstr "onemogoči"
 
 msgid "disable intro screen"
-msgstr ""
+msgstr "onemogoči uvodni zaslon"
 
 #
 msgid "disabled"
@@ -12912,14 +12919,14 @@ msgid "disconnected"
 msgstr "prekinjeno"
 
 msgid "discussion/interview/debate"
-msgstr ""
+msgstr "razprava/intervju/pogovor"
 
 #
 msgid "do nothing"
 msgstr "Izhod"
 
 msgid "documentary"
-msgstr ""
+msgstr "dokumentarni"
 
 msgid "don't descramble, record ecm"
 msgstr "ne odkodiran, snemaj ECM paketke"
@@ -12932,13 +12939,13 @@ msgid "east"
 msgstr "vzhod"
 
 msgid "economics/social advisory"
-msgstr ""
+msgstr "ekonomija/socialno svetovanje"
 
 msgid "education/science/factual topics (general)"
-msgstr ""
+msgstr "izobraževanje/znanost/dejanske teme (splošno)"
 
 msgid "embedded"
-msgstr ""
+msgstr "vdelano"
 
 #
 msgid "empty"
@@ -12949,7 +12956,7 @@ msgid "enable"
 msgstr "omogoči"
 
 msgid "enable intro screen"
-msgstr ""
+msgstr "omogoči uvodni zaslon"
 
 #
 msgid "enabled"
@@ -12960,10 +12967,10 @@ msgid "end cut here"
 msgstr "zaključi del tukaj"
 
 msgid "entertainment (10-16 year old)"
-msgstr ""
+msgstr "zabava (starost 10-16 let)"
 
 msgid "entertainment (6-14 year old)"
-msgstr ""
+msgstr "zabava (starost 6-14 let)"
 
 msgid "epg cache backup"
 msgstr "varnostno kopiranje epg podatkov"
@@ -12972,10 +12979,10 @@ msgid "equestrian"
 msgstr ""
 
 msgid "error starting scanning"
-msgstr ""
+msgstr "napaka ob začetku pregleda"
 
 msgid "error while scanning"
-msgstr ""
+msgstr "napaka med pregledom"
 
 msgid "et4000"
 msgstr "et4000"
@@ -12995,7 +13002,7 @@ msgid "et9200/et9500/et6500"
 msgstr "et9200/9500/6500"
 
 msgid "execute cuts (requires MovieCut plugin)"
-msgstr ""
+msgstr "izvedi rezanje (zahteva vtičnik MovieCut)"
 
 #
 msgid "exit DVD player or return to file browser"
@@ -13010,19 +13017,19 @@ msgid "exit networkadapter setup menu"
 msgstr "izhod iz nastavitvenega menija omrežnega vmesnika"
 
 msgid "experimental film/video"
-msgstr ""
+msgstr "eksperimentalni film/video"
 
 msgid "extra wide"
-msgstr ""
+msgstr "ekstra široko"
 
 msgid "failed"
-msgstr ""
+msgstr "neuspešno"
 
 msgid "false"
 msgstr "napačno"
 
 msgid "fashion"
-msgstr ""
+msgstr "moda"
 
 #
 msgid "fileformats (BMP, PNG, JPG, GIF)"
@@ -13033,13 +13040,13 @@ msgid "filename"
 msgstr "ime datoteke"
 
 msgid "film/cinema"
-msgstr ""
+msgstr "film/kino"
 
 msgid "fine arts"
-msgstr ""
+msgstr "likovne umetnosti"
 
 msgid "fitness & health"
-msgstr ""
+msgstr "fitnes & zdravje"
 
 #
 msgid "flat alphabetic"
@@ -13049,10 +13056,10 @@ msgid "flat alphabetic reverse"
 msgstr "razvrščanje po abecedi (obratno)"
 
 msgid "folk/traditional music"
-msgstr ""
+msgstr "ljudska/tradicionalna glasba"
 
 msgid "football/soccer"
-msgstr ""
+msgstr "nogomet"
 
 #
 #, fuzzy
@@ -13065,7 +13072,7 @@ msgid "force enabled"
 msgstr "vključeno"
 
 msgid "foreign countries/expeditions"
-msgstr ""
+msgstr "tuje države/ekspedicije"
 
 #
 msgid "forward to the next chapter"
@@ -13079,13 +13086,13 @@ msgid "from"
 msgstr "od"
 
 msgid "further education"
-msgstr ""
+msgstr "nadaljnje izobraževanje"
 
 msgid "game show/quiz/contest"
-msgstr ""
+msgstr "igra/kviz/tekmovanje"
 
 msgid "gardening"
-msgstr ""
+msgstr "vrtnarjenje"
 
 #
 msgid "go to deep standby"
@@ -13097,14 +13104,14 @@ msgstr "pojdi v pripravljenost"
 
 #
 msgid "grab this frame as bitmap"
-msgstr ""
+msgstr "zajemi ta okvir kot bitno sliko"
 
 #
 msgid "green"
 msgstr "Zelena"
 
 msgid "handicraft"
-msgstr ""
+msgstr "obrt"
 
 msgid "height"
 msgstr "višina"
@@ -13133,7 +13140,7 @@ msgid "in plugins only"
 msgstr "Ni najdenih novih vtičnikov"
 
 msgid "information/education/school program"
-msgstr ""
+msgstr "informacije/izobraževanje/šolski program"
 
 #
 msgid "init module"
@@ -13141,7 +13148,7 @@ msgstr "zagon modula"
 
 #
 msgid "init modules"
-msgstr ""
+msgstr "zagon modulov"
 
 #
 msgid "insert mark here"
@@ -13151,7 +13158,7 @@ msgid "invalid type"
 msgstr "napačen tip"
 
 msgid "jazz"
-msgstr ""
+msgstr "jazz"
 
 #
 msgid "jump back to the previous title"
@@ -13162,7 +13169,7 @@ msgid "jump forward to the next title"
 msgstr "preskoči na naslednji naslov"
 
 msgid "jump to chapter by number"
-msgstr ""
+msgstr "preskoči na poglavje po številki"
 
 msgid "languages"
 msgstr "jeziki"
@@ -13179,7 +13186,7 @@ msgid "left, wrapped"
 msgstr "levo, objeto"
 
 msgid "leisure hobbies (general)"
-msgstr ""
+msgstr "hobiji za prosti čas (splošno)"
 
 #
 msgid "length"
@@ -13209,10 +13216,10 @@ msgid "listens to hotplug events"
 msgstr "Poravnava dogodkov"
 
 msgid "literature"
-msgstr ""
+msgstr "literatura"
 
 msgid "live broadcast"
-msgstr ""
+msgstr "predvajanje v živo"
 
 #
 msgid "locked"
@@ -13229,10 +13236,10 @@ msgid "manual"
 msgstr "prenos"
 
 msgid "martial sports"
-msgstr ""
+msgstr "borilni športi"
 
 msgid "medicine/physiology/psychology"
-msgstr ""
+msgstr "medicina/fiziologija/psihologija"
 
 #
 msgid "menu"
@@ -13251,7 +13258,7 @@ msgid "month"
 msgstr "mesec"
 
 msgid "motor sport"
-msgstr ""
+msgstr "motošport"
 
 msgid "motoring"
 msgstr ""
@@ -13273,7 +13280,7 @@ msgid "move up to previous entry"
 msgstr "premik gor, prejšnji vnos"
 
 msgid "movie/drama (general)"
-msgstr ""
+msgstr "film/drama (splošno)"
 
 msgid "multi"
 msgstr ""
@@ -13283,13 +13290,13 @@ msgid "multinorm"
 msgstr "multinorm"
 
 msgid "music/ballet/dance (general)"
-msgstr ""
+msgstr "glasba/balet/ples (splošno)"
 
 msgid "musical/opera"
 msgstr ""
 
 msgid "nature/animals/environment"
-msgstr ""
+msgstr "narava/živali/okolje"
 
 #
 msgid "never"
@@ -13305,7 +13312,7 @@ msgid "news/current affairs (general)"
 msgstr ""
 
 msgid "news/weather report"
-msgstr ""
+msgstr "novice/vremenska napoved"
 
 #
 msgid "no"
@@ -13320,7 +13327,7 @@ msgid "no CI slots found"
 msgstr "ni najdene nobene CI vrate"
 
 msgid "no channel list"
-msgstr ""
+msgstr "ni seznama kanalov"
 
 #
 msgid "no module found"
@@ -13356,10 +13363,10 @@ msgid "not supported"
 msgstr "ni podprto"
 
 msgid "not tested"
-msgstr ""
+msgstr "ni preverjeno"
 
 msgid "not_tested"
-msgstr ""
+msgstr "ni_preverjeno"
 
 #
 msgid "nothing connected"
@@ -13435,7 +13442,7 @@ msgid "popular culture/traditional arts"
 msgstr ""
 
 msgid "pre-school children's program"
-msgstr ""
+msgstr "program za predšolske otroke"
 
 msgid "receiver software because updates are available."
 msgstr ""
@@ -13453,7 +13460,7 @@ msgid "red"
 msgstr "Rdeča"
 
 msgid "religion"
-msgstr ""
+msgstr "religija"
 
 msgid "remarkable people"
 msgstr ""
@@ -13525,7 +13532,7 @@ msgid "select menu entry"
 msgstr "izberite vnos"
 
 msgid "serious music/classic music"
-msgstr ""
+msgstr "resna glasba/klasična glasba"
 
 msgid "serious/classical/religious/historical movie/drama"
 msgstr ""
@@ -13628,13 +13635,13 @@ msgid "special events"
 msgstr "posebni dogodki"
 
 msgid "special format data DVD (HDTV compatible)"
-msgstr ""
+msgstr "posebna oblika podatkovnega DVD (HDTV kompatibilno)"
 
 msgid "sports (general)"
-msgstr ""
+msgstr "šport (šplošno)"
 
 msgid "sports magazine"
-msgstr ""
+msgstr "športni magazin"
 
 #
 msgid "standard"
@@ -13656,7 +13663,7 @@ msgid "stereo"
 msgstr "stereo"
 
 msgid "successful"
-msgstr ""
+msgstr "uspešno"
 
 #
 msgid "switch to the next angle"
@@ -13671,20 +13678,20 @@ msgid "switch to the next subtitle language"
 msgstr "preklop na naslednji jezik podnapisov"
 
 msgid "talk show"
-msgstr ""
+msgstr "pogovorna oddaja"
 
 msgid "team sports"
-msgstr ""
+msgstr "ekipni športi"
 
 msgid "technology/natural science"
-msgstr ""
+msgstr "tehnologija/znanost"
 
 #
 msgid "template file"
 msgstr "predloga"
 
 msgid "tennis/squash"
-msgstr ""
+msgstr "tenis/squash"
 
 #
 msgid "testing"
@@ -13709,7 +13716,7 @@ msgid "top"
 msgstr "na vrh"
 
 msgid "tourism/travel"
-msgstr ""
+msgstr "turizem/potovanje"
 
 msgid "true"
 msgstr "pravilno"
@@ -13733,7 +13740,7 @@ msgid "unknown"
 msgstr "neznano"
 
 msgid "unknown error"
-msgstr ""
+msgstr "neznana napaka"
 
 #
 msgid "unknown service"
